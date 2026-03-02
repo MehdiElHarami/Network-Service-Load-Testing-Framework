@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.135-green.svg)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **Production-ready REST API testing framework demonstrating FastAPI, SQLite, Docker, and comprehensive testing automation. Features health checks, load testing with Locust, pytest integration, and performance monitoring.**
 
@@ -77,6 +76,8 @@ This project demonstrates professional-grade API testing and automation capabili
 ---
 
 ## 🏗 Architecture
+
+![Architecture Diagram](assets/image.png)
 
 ```
 ┌─────────────┐     ┌──────────────┐     ┌─────────────┐
@@ -263,6 +264,8 @@ POST http://localhost:8000/fault-injection/disable
 ---
 
 ## 📊 Performance Dashboard & Metrics
+
+![Performance Dashboard](assets/image2.png)
 
 Access the dashboard at: **http://localhost:8000/dashboard**
 

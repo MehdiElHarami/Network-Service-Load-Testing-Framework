@@ -22,6 +22,10 @@
 
 ## 🎯 Overview
 
+![Architecture Diagram](assets/image.png)
+![Performance Dashboard](assets/image2.png)
+
+
 This project demonstrates professional-grade API testing and automation capabilities:
 
 ✅ **FastAPI REST API** with multiple endpoints  
@@ -76,8 +80,6 @@ This project demonstrates professional-grade API testing and automation capabili
 ---
 
 ## 🏗 Architecture
-
-![Architecture Diagram](assets/image.png)
 
 ```
 ┌─────────────┐     ┌──────────────┐     ┌─────────────┐
@@ -264,8 +266,6 @@ POST http://localhost:8000/fault-injection/disable
 ---
 
 ## 📊 Performance Dashboard & Metrics
-
-![Performance Dashboard](assets/image2.png)
 
 Access the dashboard at: **http://localhost:8000/dashboard**
 
